@@ -373,6 +373,10 @@ Let's add test cases for Queue:
         }
 
     } 
+    
+And run it by below command in terminal:
+    
+    vendor/bin/phpunit /tests/laraQueueTest.php
 
     
     
