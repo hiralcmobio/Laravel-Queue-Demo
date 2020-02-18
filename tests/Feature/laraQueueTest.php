@@ -8,7 +8,7 @@ use Tests\TestCase;
 
 class laraQueueTest extends TestCase
 {
-use WithFaker;
+    use WithFaker;
 
     /**
      * A basic feature test example.
